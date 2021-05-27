@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is [Seung Hoon](a "First name") [Choi](a "Last name") and I'm a AI Research Scientist working in Seoul, South Korea.
+### My name is Seung Hoon Choi and I'm a AI Research Scientist working in Seoul, South Korea.
 
 ### Bio: 
 
