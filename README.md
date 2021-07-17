@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-### My name is Seung Hoon Choi and I'm a AI Research Scientist working in Seoul, South Korea.
+### My name is Seung Hoon Choi and I'm a Machine Learning Research Engineer working in Seoul, South Korea.
 
 ### Bio: 
 
 - 🏢 I'm currently working at **VisualCamp**
-- 🏫 Undergraduate at UIUC (Rising Sophomore currently on leave of absence)
-- 🌱 I’m currently learning about **Artificial Intelligence** & **Cybersecurity**
+- 🏫 Undergraduate at UIUC (Sophomore currently on leave of absence)
+- 🌱 I’m currently interested & learning about **Artificial Intelligence** & **Cybersecurity**
 
 <!--
 **seunghoon0821/seunghoon0821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
